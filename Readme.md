@@ -10,4 +10,9 @@ Ideação:
     skills/soft-skills.css
     contact.css
     global.css
-    
+
+Branchs:
+    main
+    aboutme
+    navbar
+    skills
